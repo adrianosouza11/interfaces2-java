@@ -4,7 +4,6 @@ import model.entities.AbstractShape;
 import model.entities.Circle;
 import model.entities.Rectangle;
 
-import model.entities.Shape;
 import model.enums.Color;
 
 public class Program {
